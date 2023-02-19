@@ -13,15 +13,22 @@ Então, por que esperar? Junte-se aos milhares de usuários satisfeitos que já 
 # Requisito
 
 Visual Studio 
-<p>import discord</p>
-<p>from discord.ext import commands</p>
-<p>import requests</p>
-<p>from bs4 import BeautifulSoup</p>
-<p>import os</p>
-<p>from dotenv import load_dotenv</p>
-<p>import openai</p>
+Para instalar os requisitos discord, requests, beautifulsoup4, python-dotenv e openai, você pode utilizar o pip, o gerenciador de pacotes padrão do Python.
+Para instalar esses pacotes, abra o terminal do seu sistema operacional e execute os seguintes comandos:
 
-# 📜Changelog
+<p>pip install discord</p>
+<p>pip install requests</p>
+<p>pip install beautifulsoup4</p>
+<p>pip install python-dotenv</p>
+<p>pip install openai</p>
+
+Ou, se preferir, você pode instalar todos os pacotes de uma vez executando o seguinte comando:
+
+<p>pip install discord requests beautifulsoup4 python-dotenv openai</p>
+
+Lembre-se de que você deve estar no diretório do projeto para executar esses comandos corretamente. Além disso, você pode precisar de permissões administrativas para instalar os pacotes no seu sistema operacional.
+
+# Changelog
 
 Olá a todos! Gostaria de informá-los que o nosso projeto está sempre passando por atualizações periódicas para garantir que o mesmo opere com a melhor eficiência e funcionamento possível.
 
