@@ -1,4 +1,4 @@
-<img src="https://ibb.co/L8JyfQy" alt="openai/gpt-discord-bot" style="max-width:100%;">
+<img src="https://ibb.co/L8JyfQy](https://i.ibb.co/7XRDFgD/twitter-1.png" alt="openai/gpt-discord-bot" style="max-width:100%;">
 
 
 # openai/gpt-discord-bot
