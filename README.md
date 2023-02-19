@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fopenai.com%2F&psig=AOvVaw3xxd72dN37Kmm-PbC8ErQ1&ust=1676921522594000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCTlM-pov0CFQAAAAAdAAAAABAD" alt="Painel Netflix" style="max-width:100%;">
+<img src="https://ibb.co/L8JyfQy" alt="openai/gpt-discord-bot" style="max-width:100%;">
 
 
 # openai/gpt-discord-bot
