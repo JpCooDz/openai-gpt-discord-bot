@@ -1,4 +1,4 @@
-<img src="[https://uploaddeimagens.com.br/images/002/974/124/full/Capturar.PNG?1606015761](https://i.ibb.co/7XRDFgD/twitter-1.png)" alt="Painel Netflix" style="max-width:100%;">
+<img src="https://i.ibb.co/7XRDFgD/twitter-1.png" alt="Painel Netflix" style="max-width:100%;">
 
 
 # openai/gpt-discord-bot
