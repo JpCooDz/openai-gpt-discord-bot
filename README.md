@@ -10,6 +10,10 @@ Com uma interface amigável e comandos intuitivos, você pode acessar facilmente
 
 Então, por que esperar? Junte-se aos milhares de usuários satisfeitos que já experimentaram o poder do nosso bot Discord AI. Experimente hoje e veja como é fácil obter as informações de que precisa, quando precisa, na ponta dos dedos!
 
+# Comandos
+
+!chatgtp mensagem
+
 # Requisito
 
 Visual Studio 
